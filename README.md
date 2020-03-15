@@ -5,7 +5,3 @@ taught by master Daniel Mendes (great teacher)! Own creations developed from dat
 I recommend the course for Brazilians or Portuguese speakers.
 The school is a reference when it comes to data science!
 Good studies =]
-Open in Google Translate
-Feedback
-Web result with website links
-Abrir no Google Tradutor
