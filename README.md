@@ -1,10 +1,11 @@
 # myfirstBI #
 
-Estes são meus primeiros painéis com o Microsoft Power BI. Resultados do treinamento realizado na Data Science Academy, no Brasil,
-ensinado pelo mestre Daniel Mendes (grande professor)! Criações próprias desenvolvidas a partir de bases de dados fornecidas no curso.
-Eu recomendo o curso para brasileiros ou falantes de português.
-A escola é uma referência quando se trata de ciência de dados!
-Bons estudos =]
-Abrir no Google Tradutor	
+These are my first panels with Microsoft Power BI. Results of training conducted at the Data Science Academy, in Brazil,
+taught by master Daniel Mendes (great teacher)! Own creations developed from databases provided in the course.
+I recommend the course for Brazilians or Portuguese speakers.
+The school is a reference when it comes to data science!
+Good studies =]
+Open in Google Translate
 Feedback
-Resultado da Web com links de sites
+Web result with website links
+Abrir no Google Tradutor
